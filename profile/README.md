@@ -1,7 +1,7 @@
-# 강아지 모드 <img width="30" src="https://github.com/user-attachments/assets/112b617f-e625-477c-a605-0df08f5b8ce7" />
+# 강아지 모드 <img width="30" src="https://github.com/user-attachments/assets/87442ed6-5e83-4b09-9ee0-131f0badb183" />
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/02205295-2fbd-49c7-8ba1-5845b4224081" width="800" />
+  <img src="https://github.com/user-attachments/assets/b006c625-49c0-42ce-8376-639652ad36f5" width="800" />
 </p>
 
 > 강아지를 키워보세요!  
